@@ -1,47 +1,87 @@
-# 💀 $ whoami
+```
 
-> `u1` :: red-team operator · bug bounty hunter · appsec
+                   ███████████████████████████████████
+                 ██   ╔══════════════════════════╗  ██
+                ██    ║    CLASSIFIED CODEC       ║   ██
+                ██    ║      OPERATOR DOSSIER     ║   ██
+                ██    ╚══════════════════════════╝   ██
+                 ██   █████████████████████████   ██
+                   ███████████████████████████████
+```
+
+# OPERATOR: `u1`
+
+```
+UNIT         : RED-TEAM DIVISION
+STATUS       : ACTIVE · FIELD-READY
+CLEARANCE    : ████████ (EYES ONLY)
+LOCATION     : [REDACTED]
+TZ           : UTC+0 / OFFSET IRRELEVANT
+```
 
 ---
 
-### 🎯 focus
+## MISSION PROFILE
 
 ```
-recon    ████████████████████░░  85%
-idor     ██████████████████████  95%
-ssrf     █████████████████████░  90%
-api      █████████████████████░  92%
-rce      ██████████████████░░░░  78%
-osint    ████████████████████░░  84%
+PRIMARY   : Offensive Security · Bug Bounty · AppSec
+SECONDARY : Red-Team Engagements · Vulnerability Research
+STATUS    : 20+ CVEs · 100+ Validated Reports
 ```
 
-### 🧰 toolchain
+## OPERATIONAL CAPABILITIES
 
-| tool | usage |
-|------|-------|
-| `burpsuite` | intercept / repeater / scanner |
+```
+RECON        ████████████████████░░  85%
+IDOR         ██████████████████████  95%
+SSRF         █████████████████████░  90%
+API EXPLOIT  █████████████████████░  92%
+RCE          ██████████████████░░░░  78%
+OSINT        ████████████████████░░  84%
+AUTH BYPASS  ████████████████████░░  82%
+MOBILE       ██████████████████░░░░  74%
+```
+
+## EQUIPMENT / TOOLCHAIN
+
+| weapon | role |
+|---------|------|
+| `burpsuite` | intercept / recon / exploitation |
 | `ffuf` | directory & parameter fuzzing |
-| `nmap` | port scanning / service discovery |
-| `nuclei` | template-based scanning |
-| `sqlmap` | automated sqli |
-| `hydra` | brute force |
-| `subfinder` + `httpx` | subdomain discovery |
-| `katana` | url crawling |
+| `nmap` | perimeter scanning |
+| `nuclei` | template-based strikes |
+| `sqlmap` | automated injection |
+| `hydra` | credential attack |
+| `subfinder+httpx` | subdomain discovery |
+| `katana` | URL crawling |
 
-### 📬 contact
+## COMMUNICATION CHANNELS
 
 ```
-email:  u1.999@proton.me
-pgp:    [redacted]
-signal: [upon request]
+EMAIL   : u1.999@proton.me     [OPEN]
+SIGNAL  : [BY REQUEST ONLY]
+PGP     : [REDACTED · SECURE]
 ```
 
-### 📊 stats
+---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=u1amd999&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00ff00&text_color=00ff00&title_color=00ff00)](https://github.com/anuraghazra/github-readme-stats)
+## FIELD NOTES
+
+```yaml
+motto:   "trust nothing, verify everything"
+method:  recon → identify → exploit → report
+status:  always hunting
+```
 
 ---
 
 ```
-"trust nothing, verify everything"
+ ╔═══════════════════════════════════════════════════════╗
+ ║  THIS PROFILE HAS BEEN REVIEWED AND APPROVED FOR     ║
+ ║  PUBLIC DISPLAY. CLASSIFICATION MARKINGS OMITTED.    ║
+ ╚═══════════════════════════════════════════════════════╝
+
+       ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+       █  END OF DOSSIER · SESSION TERMINATED   █
+       ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
 ```
