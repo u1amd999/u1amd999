@@ -1,102 +1,47 @@
-```text
-╔═══════════════════════════════════════════════════════════╗
-║  ██╗   ██╗ █████╗ ███╗   ███╗██████╗  █████╗  ██████╗   ║
-║  ██║   ██║██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝   ║
-║  ██║   ██║███████║██╔████╔██║██║  ██║███████║██║        ║
-║  ╚██╗ ██╔╝██╔══██║██║╚██╔╝██║██║  ██║██╔══██║██║        ║
-║   ╚████╔╝ ██║  ██║██║ ╚═╝ ██║██████╔╝██║  ██║╚██████╗   ║
-║    ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ║
-╚═══════════════════════════════════════════════════════════╝
+# 💀 $ whoami
 
-[SYSTEM] >>> INITIALIZING PROFILE
-[TIME]   >>> $(date '+%Y-%m-%d %H:%M:%S')
-[STATUS] >>> ACTIVE :: PUBLIC :: UNTRACKED
+> `u1` :: red-team operator · bug bounty hunter · appsec
 
-           ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-           ██░ RECON ░ IDENTIFY ░ EXPLOIT ░ REPORT ██
-           ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+---
 
-┌──────────────────────────────────────────────────────────┐
-│ $ whoami                                                  │
-│ u1amd999                                                  │
-│                                                           │
-│ $ cat /etc/passwd | grep ^u1                              │
-│ u1:x:1000:1000:red-team:/home/u1:/bin/bash                │
-│                                                           │
-│ $ uname -a                                                │
-│ Linux mind 6.8.0-48-generic #48~24.04.1-Ubuntu x86_64    │
-│ GNU/Linux                                                 │
-│                                                           │
-│ $ curl -s https://api.github.com/users/u1amd999           │
-│ {                                                         │
-│   "login": "u1amd999",                                    │
-│   "type": "User",                                         │
-│   "hacker": true,                                         │
-│   "focus": "bug-bounty / red-team / appsec",              │
-│   "motto": "trust nothing, verify everything"             │
-│ }                                                         │
-└──────────────────────────────────────────────────────────┘
+### 🎯 focus
 
-┌─[RECON]──────────────────────────────────────────────────┐
-│                                                           │
-│  [*] scanning attack surface...                            │
-│  [*] enumerating subdomains...                            │
-│  [*] fingerprinting technologies...                       │
-│  [-] nothing found (yet)                                  │
-│                                                           │
-│  > The only endpoint exposed is my curiosity.             │
-│                                                           │
-└──────────────────────────────────────────────────────────┘
+```
+recon    ████████████████████░░  85%
+idor     ██████████████████████  95%
+ssrf     █████████████████████░  90%
+api      █████████████████████░  92%
+rce      ██████████████████░░░░  78%
+osint    ████████████████████░░  84%
+```
 
-┌─[SKILLSET]───────────────────────────────────────────────┐
-│                                                           │
-│  BUG HUNTING  ████████████████░░░░░░░  75%                │
-│  WEB RECON    ██████████████████░░░░░  85%                │
-│  SSRF/IDOR    ████████████████████░░  90%                │
-│  API TESTING  █████████████████████░  95%                │
-│  REVERSE      ████████████████░░░░░░  70%                │
-│  OSINT        ███████████████████░░░  85%                │
-│                                                           │
-└──────────────────────────────────────────────────────────┘
+### 🧰 toolchain
 
-┌─[TOOLCHAIN]──────────────────────────────────────────────┐
-│                                                           │
-│  $ ls /usr/share/wordlists/                               │
-│  rockyou.txt  dirbuster.txt  subdomains.txt               │
-│                                                           │
-│  $ which burpsuite ffuf nmap nuclei sqlmap hydra          │
-│  /usr/bin/burpsuite                                       │
-│  /usr/bin/ffuf                                            │
-│  /usr/bin/nmap                                            │
-│  /usr/bin/nuclei                                          │
-│  /usr/bin/sqlmap                                          │
-│  /usr/bin/hydra                                           │
-│                                                           │
-└──────────────────────────────────────────────────────────┘
+| tool | usage |
+|------|-------|
+| `burpsuite` | intercept / repeater / scanner |
+| `ffuf` | directory & parameter fuzzing |
+| `nmap` | port scanning / service discovery |
+| `nuclei` | template-based scanning |
+| `sqlmap` | automated sqli |
+| `hydra` | brute force |
+| `subfinder` + `httpx` | subdomain discovery |
+| `katana` | url crawling |
 
-┌─[CONTACT]────────────────────────────────────────────────┐
-│                                                           │
-│  📧 u1.999@proton.me                                     │
-│  🔗 github.com/u1amd999                                  │
-│                                                           │
-│  PGP: [REDACTED]                                          │
-│  Signal: [UPON REQUEST]                                   │
-│                                                           │
-│  > Inquiries for: bug-bounty collab / responsible         │
-│  > disclosure / red-team work                             │
-│                                                           │
-└──────────────────────────────────────────────────────────┘
+### 📬 contact
 
-┌─[QUOTE]───────────────────────────────────────────────────┐
-│                                                            │
-│  "The quieter you become, the more you can hear."          │
-│                                         — Ram Dass         │
-│                                                            │
-│  "Hacking is about exploiting human nature,                │
-│   not computer science."                                   │
-│                                         — Kevin Mitnick     │
-│                                                            │
-└──────────────────────────────────────────────────────────┘
+```
+email:  u1.999@proton.me
+pgp:    [redacted]
+signal: [upon request]
+```
 
-[SESSION] >>> COMPLETE
-[LOGOUT]  >>> THINK LIKE AN ATTACKER
+### 📊 stats
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=u1amd999&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00ff00&text_color=00ff00&title_color=00ff00)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+```
+"trust nothing, verify everything"
+```
