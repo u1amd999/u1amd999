@@ -1,17 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=60&lines=%24+whoami+%3A%3A+u1+%3A%3A+red-team+operator;%24+recon+%3A%3A+always+hunting+%3A%3A+never+stop;%24+exploit+%3A%3A+identify+%3A%3A+report+%3A%3A+repeat;%24+status+%3A%3A+active+%3A%3A+in+the+wild" alt="typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=u1%20|%20RED-TEAM&fontSize=60&fontColor=00ff00&animation=twinkling" width="100%" />
 </p>
 
-```text
-     ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-     ▌                                                      ▌
-     ▌  💀  SYSTEM // RED-TEAM DIVISION  //  ACTIVE  💀   ▌
-     ▌                                                      ▌
-     ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
-```
-
 <p align="center">
-  <img src="https://i.imgur.com/x1KbuCq.gif" width="500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=%24+whoami+%3A%3A+u1+%3A%3A+red-team+operator;%24+recon+%3A%3A+always+hunting+%3A%3A+never+stop;%24+status+%3A%3A+active+%3A%3A+in+the+wild" alt="typing" />
 </p>
 
 ```text
@@ -23,7 +15,19 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-## ⌨ TOOLCHAIN
+## 🛠 TOOLCHAIN
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6B00?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -36,18 +40,7 @@
   <img src="https://img.shields.io/badge/John_Ripper-CC0000?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
-## 📊 STATS
+## 📊 STATISTICS
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u1amd999&theme=github_dark" width="720" />
@@ -64,20 +57,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=u1amd999&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="95%" />
 </p>
 
-```text
-                       CONTRIBUTION SKYLINE 2026
-
-                    ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂
-                  ▂ █ ▂ ▂ ▂ ▂ ▂ █ ▂ ▂ ▂ ▂ ▂ █ ▂ ▂ ▂ ▂ ▂
-                ▂ █ █ █ ▂ ▂ █ █ █ ▂ ▂ █ █ █ ▂ ▂ █ █ ▂ ▂
-              █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █
-```
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 
-## 🌐 CONTACT
+## 📬 CONTACT
 
 <p align="center">
   <a href="mailto:u1.999@proton.me">
@@ -89,9 +73,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=u1amd999&style=flat-square&color=00ff00&label=SESSION+COUNT" />
+  <img src="https://komarev.com/ghpvc/?username=u1amd999&style=flat-square&color=00ff00&label=SCANS" />
 </p>
 
 <p align="center">
   <sub><i>"the quieter you become, the more you can hear"</i></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer" width="100%" />
 </p>
