@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=70&lines=%24+whoami+%3A%3A+u1+%3A%3A+red-team+operator;%24+uname+-o+%3A%3A+offensive+security;%24+uptime+%3A%3A+always+hunting;%24+id+%3A%3A+bug+bounty+hunter;%24+cat+%2Fetc%2Fpasswd+%3A%3A+u1%3Ax%3Aroot%3Aroot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=%24+whoami+%3A%3A+u1+%3A%3A+red-team+operator;%24+uname+-o+%3A%3A+offensive+security;%24+uptime+%3A%3A+always+hunting;%24+id+%3A%3A+bug+bounty+hunter" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAd/tony-star-jumping.gif" width="120" />
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="180" />
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAd/rennen-fast.gif" width="120" />
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/x1KbuCq.gif" width="600" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="50" />
+  <b><sub>SYSTEM :: RED-TEAM DIVISION :: ACTIVE</sub></b>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="50" />
 </p>
-
----
 
 ```text
 
@@ -27,42 +25,39 @@
 
 ---
 
+## ⚔ TOOLS
+
 <p align="center">
-  <b>OPERATOR PROFILE</b><br>
-  <sub>ALIAS : u1 &nbsp;|&nbsp; DIVISION : RED-TEAM &nbsp;|&nbsp; STATUS : 🔴 ACTIVE</sub>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6B00?style=plastic&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ffuf-FF0000?style=plastic&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004B87?style=plastic&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-000000?style=plastic&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-FB7A24?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-00FFFF?style=plastic&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metasploit-481BBD?style=plastic&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-## 🛠 TOOLCHAIN
+## 📊 STATISTICS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6B00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ffuf-FF0000?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nuclei-000000?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLmap-FF5733?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hydra-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Metasploit-2C2C2C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-John_Ripper-CC0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u1amd999&theme=github_dark" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,rust,git,docker,kali,neovim,github,gitlab,aws,gcp" />
-</p>
-
----
-
-## 📊 STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=u1amd999&show_icons=true&theme=merko&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=u1amd999&theme=merko&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u1amd999&layout=compact&theme=merko&hide_border=true" height="120" />
-  <img src="https://github-profile-trophy.vercel.app/?username=u1amd999&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" height="120" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=u1amd999&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u1amd999&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u1amd999&theme=github_dark" />
 </p>
 
 ---
@@ -91,9 +86,9 @@
 </p>
 
 <p align="center">
-  <sub><i>"trust nothing, verify everything"</i></sub>
+  <img src="https://komarev.com/ghpvc/?username=u1amd999&color=00ff00&style=flat-square&label=SCANS" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=u1amd999&color=00ff00&style=flat-square&label=SCANS" />
+  <i>"trust nothing, verify everything"</i>
 </p>
