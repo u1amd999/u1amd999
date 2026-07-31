@@ -1,85 +1,77 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=u1%20|%20RED-TEAM&fontSize=60&fontColor=00ff00&animation=twinkling" width="100%" />
-</p>
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub shows dark.svg in dark mode and light.svg in light mode -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=%24+whoami+%3A%3A+u1+%3A%3A+red-team+operator;%24+recon+%3A%3A+always+hunting+%3A%3A+never+stop;%24+status+%3A%3A+active+%3A%3A+in+the+wild" alt="typing" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u1amd999/u1amd999/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/u1amd999/u1amd999/main/light.svg">
+  <img alt="u1" src="https://raw.githubusercontent.com/u1amd999/u1amd999/main/light.svg">
+</picture>
 
-```text
-╔═══════════════════════════════════════════════════════╗
-║  OPERATOR : u1                                         ║
-║  DIVISION : Offensive Security / Bug Bounty            ║
-║  MOTTO    : trust nothing, verify everything            ║
-║  CONTACT  : u1.999@proton.me                           ║
-╚═══════════════════════════════════════════════════════╝
-```
+<!-- ===== GITHUB STATS ===== -->
 
-## 🛠 TOOLCHAIN
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" />
-</p>
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=u1amd999&hide_border=true&background=0A0A12&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=u1amd999&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="u1's streak" />
+</picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6B00?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ffuf-FF0000?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuclei-111111?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-FB7A24?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-00FFFF?style=flat-square&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Metasploit-481BBD?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_Ripper-CC0000?style=flat-square&logo=python&logoColor=white" />
-</p>
+<br/>
 
-## 📊 STATISTICS
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=u1amd999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A0A12&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=u1amd999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="u1's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=u1amd999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A0A12&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u1amd999&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u1amd999&theme=github_dark" width="720" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=u1amd999&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u1amd999&theme=github_dark" />
-</p>
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
-## 📈 ACTIVITY
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u1amd999&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="95%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u1amd999/u1amd999/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/u1amd999/u1amd999/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/u1amd999/u1amd999/output/snake-light.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</p>
+</div>
 
-## 📬 CONTACT
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/u1amd999/u1amd999/projects/projects.svg" alt="Projects" />
+</div>
 
-<p align="center">
-  <a href="mailto:u1.999@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/u1amd999">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=u1amd999&style=flat-square&color=00ff00&label=SCANS" />
-</p>
+<a href="mailto:u1.999@proton.me">
+  <img src="https://img.shields.io/badge/ProtonMail-0A0A12?style=for-the-badge&logo=protonmail&logoColor=A78BFA&labelColor=0A0A12" alt="ProtonMail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/u1amd999">
+  <img src="https://img.shields.io/badge/GitHub-0A0A12?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A0A12" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/u1amd999/">
+  <img src="https://img.shields.io/badge/Instagram-0A0A12?style=for-the-badge&logo=instagram&logoColor=10B981&labelColor=0A0A12" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:u1.999@proton.me">
+  <img src="https://img.shields.io/badge/Email-0A0A12?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A0A12" alt="Email" />
+</a>
+&nbsp;&nbsp;
+</div>
 
-<p align="center">
-  <sub><i>"the quieter you become, the more you can hear"</i></sub>
-</p>
+<!-- ===== END SOCIAL BADGES ===== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer" width="100%" />
-</p>
+<!-- =================================== -->
