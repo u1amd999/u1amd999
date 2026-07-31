@@ -33,11 +33,14 @@ jobs:
           python3 .github/scripts/generate_projects.py merged.json out
 
       - name: Push to projects branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: projects
-          build_dir: out
-          commit_message: "Update projects panel [skip ci]"
-          committer: "u1 <u1.999@proton.me>"
-          author: "u1 <u1.999@proton.me>"
-          jekyll: false
+        run: |
+          cd out
+          git init
+          git config user.name "u1"
+          git config user.email "u1.999@proton.me"
+          git add -A
+          git commit -m "Update projects panel [skip ci]" || true
+          git branch -M projects
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/u1amd999/u1amd999.git" projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
