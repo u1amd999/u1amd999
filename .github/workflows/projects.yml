@@ -37,3 +37,7 @@ jobs:
         with:
           target_branch: projects
           build_dir: out
+          commit_message: "Update projects panel [skip ci]"
+          committer: "u1 <u1.999@proton.me>"
+          author: "u1 <u1.999@proton.me>"
+          jekyll: false
