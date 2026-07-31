@@ -10,7 +10,7 @@ Theme: matches the profile banner (matrix #0A0A12, cyan #22D3EE, violet #A78BFA,
 emerald #10B981, mono font, dotted leaders, pulsing dots, animated accents).
 """
 import json, base64, os, sys, math, html
-from datetime import datetime, timezone
+from datetime import datetime, timezone  # noqa
 
 # ---------------- themes ----------------
 THEMES = {
